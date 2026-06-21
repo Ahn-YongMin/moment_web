@@ -1,0 +1,21 @@
+@@ Gültig ab: 21. Juni 2026
+Moment (die „App“) ist eine mobile App, die Scans von entwickeltem Film in digitale Fotos umwandelt. Diese Datenschutzerklärung erläutert, wie die App mit Ihren Informationen umgeht.
+## 1. Informationen, die wir erfassen
+Die App erfordert keine Registrierung oder ein Konto und erfasst keine personenbezogenen Daten wie Name oder E-Mail-Adresse direkt. Von Ihnen ausgewählte oder aufgenommene Bilder werden ausschließlich auf Ihrem Gerät verarbeitet und niemals auf einen Server hochgeladen oder übertragen.
+Google AdMob, das wir zur Anzeige von Werbung verwenden, kann Gerätekennungen (z. B. eine Werbe-ID) erfassen und verwenden, um personalisierte Anzeigen auszuliefern.
+## 2. Verwendung der Informationen
+Die Bildverarbeitung auf dem Gerät erfolgt ausschließlich zur Bereitstellung der von Ihnen angeforderten Foto-Umwandlungsfunktionen. Gerätekennungen können von Google zur Auslieferung und Messung von Anzeigen verwendet werden.
+## 3. Berechtigungen
+Die App verwendet folgende Berechtigungen: Kamera (zum Fotografieren von Film) und Zugriff auf Fotos/Medien (zum Auswählen von Bildern und Speichern der Ergebnisse). Berechtigungen werden nur zur Ausführung dieser Funktionen verwendet.
+## 4. Dienste von Drittanbietern
+Die App verwendet Google AdMob zur Anzeige von Werbung. Einzelheiten zur Datenverarbeitung von Google finden Sie in der %%LINK%%Datenschutzerklärung von Google%%/LINK%%.
+## 5. Datenspeicherung
+Die App speichert Ihre Bilder auf keinem Server. Die gesamte Verarbeitung erfolgt auf Ihrem Gerät, und gespeicherte Ergebnisse verbleiben nur auf Ihrem Gerät.
+## 6. Datenschutz für Kinder
+Die App richtet sich nicht an Kinder unter 13 Jahren und erfasst wissentlich keine personenbezogenen Daten von Kindern.
+## 7. Ihre Wahlmöglichkeiten
+Sie können Ihre Werbe-ID zurücksetzen oder personalisierte Werbung in den Einstellungen Ihres Geräts deaktivieren.
+## 8. Änderungen dieser Erklärung
+Wir können diese Erklärung von Zeit zu Zeit aktualisieren. Etwaige Änderungen werden auf dieser Seite veröffentlicht.
+## 9. Kontakt
+Bei Fragen kontaktieren Sie uns unter %%MAIL%%

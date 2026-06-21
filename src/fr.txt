@@ -1,0 +1,21 @@
+@@ Date d'entrée en vigueur : 21 juin 2026
+Moment (« l'Application ») est une application mobile qui convertit les scans de pellicule développée en photos numériques. La présente politique de confidentialité explique comment l'Application traite vos informations.
+## 1. Informations que nous collectons
+L'Application ne nécessite ni inscription ni compte et ne collecte pas directement d'informations personnelles identifiables telles que votre nom ou votre e-mail. Les images que vous sélectionnez ou capturez sont traitées entièrement sur votre appareil et ne sont jamais envoyées ni transmises à un serveur.
+Google AdMob, que nous utilisons pour afficher des publicités, peut collecter et utiliser des identifiants d'appareil (tels qu'un identifiant publicitaire) afin de diffuser des annonces personnalisées.
+## 2. Utilisation des informations
+Le traitement des images sur l'appareil est effectué uniquement pour fournir les fonctions de conversion de photos que vous demandez. Les identifiants d'appareil peuvent être utilisés par Google pour la diffusion et la mesure des annonces.
+## 3. Autorisations
+L'Application utilise les autorisations suivantes : appareil photo (pour photographier la pellicule) et accès aux photos/médias (pour sélectionner des images et enregistrer les résultats). Les autorisations ne sont utilisées que pour réaliser ces fonctions.
+## 4. Services tiers
+L'Application utilise Google AdMob pour afficher des publicités. Pour en savoir plus sur les pratiques de données de Google, consultez la %%LINK%%politique de confidentialité de Google%%/LINK%%.
+## 5. Conservation des données
+L'Application ne stocke vos images sur aucun serveur. Tout le traitement a lieu sur votre appareil et les résultats enregistrés restent uniquement sur votre appareil.
+## 6. Confidentialité des enfants
+L'Application ne s'adresse pas aux enfants de moins de 13 ans et ne collecte pas sciemment d'informations personnelles auprès d'enfants.
+## 7. Vos choix
+Vous pouvez réinitialiser votre identifiant publicitaire ou désactiver les annonces personnalisées dans les réglages de votre appareil.
+## 8. Modifications de cette politique
+Nous pouvons mettre à jour cette politique de temps à autre. Toute modification sera publiée sur cette page.
+## 9. Contact
+Pour toute question, contactez-nous à %%MAIL%%

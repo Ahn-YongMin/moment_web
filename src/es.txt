@@ -1,0 +1,21 @@
+@@ Fecha de entrada en vigor: 21 de junio de 2026
+Moment ("la App") es una aplicación móvil que convierte escaneos de película revelada en fotos digitales. Esta Política de Privacidad explica cómo la App gestiona tu información.
+## 1. Información que recopilamos
+La App no requiere registro ni cuenta y no recopila directamente información de identificación personal como tu nombre o correo electrónico. Las imágenes que seleccionas o capturas se procesan íntegramente en tu dispositivo y nunca se suben ni se transmiten a ningún servidor.
+Google AdMob, que utilizamos para mostrar anuncios, puede recopilar y usar identificadores del dispositivo (como un identificador de publicidad) para mostrar anuncios personalizados.
+## 2. Cómo se usa la información
+El procesamiento de imágenes en el dispositivo se realiza únicamente para ofrecer las funciones de conversión de fotos que solicitas. Google puede usar los identificadores del dispositivo para la entrega y medición de anuncios.
+## 3. Permisos
+La App usa los siguientes permisos: cámara (para fotografiar película) y acceso a fotos/medios (para seleccionar imágenes y guardar resultados). Los permisos se usan solo para realizar estas funciones.
+## 4. Servicios de terceros
+La App usa Google AdMob para mostrar anuncios. Para más detalles sobre las prácticas de datos de Google, consulta la %%LINK%%Política de Privacidad de Google%%/LINK%%.
+## 5. Conservación de datos
+La App no almacena tus imágenes en ningún servidor. Todo el procesamiento ocurre en tu dispositivo y los resultados guardados permanecen solo en tu dispositivo.
+## 6. Privacidad de los menores
+La App no está dirigida a menores de 13 años y no recopila a sabiendas información personal de menores.
+## 7. Tus opciones
+Puedes restablecer tu identificador de publicidad o desactivar los anuncios personalizados en los ajustes de tu dispositivo.
+## 8. Cambios en esta política
+Podemos actualizar esta política ocasionalmente. Cualquier cambio se publicará en esta página.
+## 9. Contacto
+Para cualquier consulta, contáctanos en %%MAIL%%

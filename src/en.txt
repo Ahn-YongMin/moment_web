@@ -1,0 +1,21 @@
+@@ Effective date: June 21, 2026
+Moment ("the App") is a mobile app that converts developed film scans into digital photos. This Privacy Policy explains how the App handles your information.
+## 1. Information We Collect
+The App does not require sign-up or an account and does not directly collect personally identifiable information such as your name or email. Images you select or capture are processed entirely on your device and are never uploaded or transmitted to any server.
+Google AdMob, which we use to display advertisements, may collect and use device identifiers (such as an advertising ID) to serve personalized ads.
+## 2. How Information Is Used
+On-device image processing is performed solely to provide the photo conversion features you request. Device identifiers may be used by Google for ad delivery and measurement.
+## 3. Permissions
+The App uses the following permissions: camera (to photograph film) and photo/media access (to select images and save results). Permissions are used only to perform these features.
+## 4. Third-Party Services
+The App uses Google AdMob to display ads. For details about Google's data practices, see the %%LINK%%Google Privacy Policy%%/LINK%%.
+## 5. Data Retention
+The App does not store your images on any server. All processing happens on your device, and saved results remain only on your device.
+## 6. Children's Privacy
+The App is not directed to children under 13 and does not knowingly collect personal information from children.
+## 7. Your Choices
+You can reset your advertising identifier or opt out of personalized ads in your device settings.
+## 8. Changes to This Policy
+We may update this policy from time to time. Any changes will be posted on this page.
+## 9. Contact
+For questions, contact us at %%MAIL%%
