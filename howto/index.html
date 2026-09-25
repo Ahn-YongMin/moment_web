@@ -52,6 +52,25 @@
       border: 1px solid var(--border);
       background: #111;
     }
+    .video-wrap {
+      width: 100%;
+      max-width: 320px;
+      margin: 16px auto 8px;
+    }
+    .video-wrap iframe {
+      display: block;
+      width: 100%;
+      aspect-ratio: 9 / 16;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #111;
+    }
+    .video-caption {
+      text-align: center;
+      font-size: 14px;
+      color: var(--muted);
+      margin: 0 0 8px;
+    }
     .note {
       background: #faf6ef;
       border: 1px solid var(--border);
@@ -131,8 +150,18 @@
         <p>App features are the same worldwide. Ad creatives may vary by region (AdMob fill).</p>
 
         <h2>7. Demo video</h2>
-        <p>
-          Screen recording link: https://www.youtube.com/shorts/SF4goD1VjI4 <br />
+        <p>Screen recording of the app in use:</p>
+        <div class="video-wrap">
+          <iframe
+            src="https://www.youtube.com/embed/SF4goD1VjI4"
+            title="Moment demo video"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+            loading="lazy"
+          ></iframe>
+        </div>
+        <p class="video-caption">
+          <a href="https://www.youtube.com/shorts/SF4goD1VjI4" target="_blank" rel="noopener">Open on YouTube</a>
         </p>
 
         <h2>8. Contact</h2>
@@ -192,8 +221,18 @@
         <p>기능은 전 세계 동일합니다. 광고 소재만 지역에 따라 달라질 수 있습니다.</p>
 
         <h2>7. 데모 영상</h2>
-        <p>
-          화면 녹화 링크: https://www.youtube.com/shorts/QTeNcJdscCg<br />
+        <p>앱 사용 화면 녹화입니다:</p>
+        <div class="video-wrap">
+          <iframe
+            src="https://www.youtube.com/embed/QTeNcJdscCg"
+            title="Moment 데모 영상"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+            loading="lazy"
+          ></iframe>
+        </div>
+        <p class="video-caption">
+          <a href="https://www.youtube.com/shorts/QTeNcJdscCg" target="_blank" rel="noopener">YouTube에서 보기</a>
         </p>
 
         <h2>8. 문의</h2>
